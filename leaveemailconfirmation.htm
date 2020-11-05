@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title></title>
+		<style>
+			tr, td{
+				padding:10px;
+			}
+
+			.accept{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#090;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+		</style>
+
+</head>
+<body>
+<h2 style = "font-family:Arial;font-size:10pt; text-align:center;">
+		Hello <b>{UserName}</b>,<br /><br />
+</h2>
+    <table border="1" align="center" cellspacing="0" cellpadding="0" style = "font-family:Arial;font-size:10pt;">
+	<tr>
+		<td>Employee Name</td>
+		<td>{employeename}</td>
+	</tr>
+    <tr>
+		<td>Leave Type</td>
+		<td>{leavetype}</td>
+	</tr>
+	<tr>
+		<td>Reason</td>
+		<td>{reason}</td>
+	</tr>
+    <tr>
+    	<td>From Date</td>
+    	<td>{fromdate}</td>
+    </tr>
+    <tr>
+    	<td>To Date</td>
+    	<td>{todate}</td>
+    </tr>
+    <tr>
+    	<td>No. of Days</td>
+    	<td>{noofdays}</td>
+    </tr>
+	<tr>
+		<td colspan="2" align="center">
+			<h3 style="color:#{color};"><b><span>{status}</span></b></h3>
+		</td>
+	</tr>
+</table>
+		<h4 style="	text-align:center;">Note : This is an automatically generated email  <i>please do not reply to it.</i></h4>
+</body>
+</html>

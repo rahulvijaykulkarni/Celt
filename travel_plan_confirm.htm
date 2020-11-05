@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title></title>
+		<style>
+			tr, td{
+				padding:10px;
+			}
+
+			.accept{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#090;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+
+			.accept:hover{
+				background-color:#0c0;
+			}
+
+			button a{
+				color: 	#fff;
+
+			}
+			.reject{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#f00;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+			.reject:hover{
+				background-color:#900;
+			}
+		</style>
+
+</head>
+<body>
+<h2 style = "font-family:Arial;font-size:10pt; text-align:center;">
+		Hello <b>{UserName}</b>,<br /><br />
+</h2>
+   <table border="1" align="center" cellspacing="0" cellpadding="0" style = "font-family:Arial;font-size:10pt;">
+	<tr>
+       <th>City</th>
+    <th>Travel Mode</th>
+    <th>Travel Type</th>
+    <th>Exception</th>
+    <th>From Destination</th>
+    <th>To Destination</th>
+    <th>From Date</th>
+    <th>To Date</th>
+    <th>Advance Amount</th>
+  </tr>
+	 {data}
+         <tr>
+            <td align="left" colspan="7">
+					{exception}
+			</td>
+			<td align="right">
+					Total:
+			</td>
+            <td align="left">
+					{amount}
+			</td>
+	</tr>
+    {comments}
+	</table>
+		<br>
+	    <table  align="center" cellspacing="5" cellpadding="10" style = "font-family:Arial;font-size:10pt;">
+
+
+			<tr>
+				<td align="center" style="background-color:#{color};">
+						{status}
+
+				</td>
+			</tr>
+</table>
+		<h4 style="	text-align:center;">Note : This is an automatically generated email <i>please do not reply to it.</i></h4>
+</body>
+</html>

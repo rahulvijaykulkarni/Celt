@@ -1,0 +1,3480 @@
+{
+  "gstin": "20BDRPS1310Q2ZA",
+  "fp": "062020",
+  "filing_typ": "M",
+  "gt": 0,
+  "cur_gt": 0,
+  "b2b": [
+    {
+      "ctin": "01AABCB5730G1ZB",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 161393.96,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 136774.54,
+                "iamt": 24619.42
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "01",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000198",
+          "chksum": "20dee684d934eaa8c98d3f57429a459b24f11ef7beb0455bbb206cc244af19ac"
+        }
+      ]
+    },
+    {
+      "ctin": "03AAACH8755L1ZC",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 159180.29,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 134898.55,
+                "iamt": 24281.74
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "03",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000178",
+          "chksum": "35b0ef15cdf9d4ca7406c5c4cef6a788e48d092486118a5a00be3a9a58c53947"
+        }
+      ]
+    },
+    {
+      "ctin": "05AAACH8755L1Z8",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 43739.63,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 37067.48,
+                "iamt": 6672.15
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000181",
+          "chksum": "5b98d6a11efa4b033b1d4906e7fb4be32456a4b497ce3722cadd3f412b888918"
+        }
+      ]
+    },
+    {
+      "ctin": "05AADCA1701E1ZJ",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 217939.96,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 184694.86,
+                "iamt": 33245.1
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000151",
+          "chksum": "5f7b51770012b246e3cb01cce329754f2060d8d74136e13e474f34eb008a6ab7"
+        },
+        {
+          "val": 215528.48,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 182651.22,
+                "iamt": 32877.26
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900088",
+          "chksum": "b2c7e75454a01f78d2f74b9f25b63279d59e8668e3f5749f8944f8e9d736b7cc"
+        },
+        {
+          "val": 215572.57,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 182688.59,
+                "iamt": 32883.98
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900055",
+          "chksum": "8b5b287e5db6505b5c0bef22f24c3c65cba0b98cc6814976ddf6a9c307049b13"
+        },
+        {
+          "val": 213742.32,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 181137.53,
+                "iamt": 32604.79
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000099",
+          "chksum": "5da3bbc230c75fecb1178a84c1f61fd544e9621eed110c3b34c3a1b83f46d353"
+        },
+        {
+          "val": 221291.62,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 187535.24,
+                "iamt": 33756.38
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000110",
+          "chksum": "5f5b7ff3c2f79d99fc52a22acccce9e8a052d12ea51a5d6fa4250bfe3b6de9c2"
+        },
+        {
+          "val": 216719.24,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 183660.34,
+                "iamt": 33058.9
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900066",
+          "chksum": "9017da88a3a469cfd9b11c8873219ea09b1089ffd7f51a781036184899f7f391"
+        },
+        {
+          "val": 216719.24,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 183660.34,
+                "iamt": 33058.9
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900077",
+          "chksum": "931ec7d263fa5773a72f4b7023e9a3e8ee9d3b3916844dd0c91e7fa431807294"
+        },
+        {
+          "val": 221291.62,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 187535.24,
+                "iamt": 33756.38
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "05",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000128",
+          "chksum": "8d2cad8b88f743d48e929aa28688d6344d6d1d1b5d6061ce80b9ec8d24b0b485"
+        }
+      ]
+    },
+    {
+      "ctin": "06AAACH8755L1Z6",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 96781.04,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 82017.83,
+                "iamt": 14763.21
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "06",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000171",
+          "chksum": "fc0c21e4c4f7ce08ca1af1b07af243eda99fe2cc3c507a48cccca73b4dc4dc00"
+        }
+      ]
+    },
+    {
+      "ctin": "06AABCU9355J1ZY",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 138998.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 117794.98,
+                "iamt": 21203.09
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "06",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "18052000068",
+          "chksum": "9cd76e6af4d8a2c3cc64d646af398919a9dfc1cfaa59b781192cfa1ced7aebb7"
+        }
+      ]
+    },
+    {
+      "ctin": "08AAACH8755L1Z2",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 111594.16,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 94571.32,
+                "iamt": 17022.84
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "08",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000179",
+          "chksum": "2565bbabc6ba4369d1bd3a286746d6632fc6a50e6f02ceb9f756a9e6df628c88"
+        }
+      ]
+    },
+    {
+      "ctin": "08AALCS3949Q1ZC",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 46565.06,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 39461.92,
+                "iamt": 7103.14
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "08",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000137",
+          "chksum": "5ee9a85bd71145ba01cd84ab5e8933989bd69ff748cbdf1f9da32a5d678a90e5"
+        },
+        {
+          "val": 2714,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 2300,
+                "iamt": 414
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "08",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00082",
+          "chksum": "7e68171303458cc5a97c0a8ae86c1ca81406082f638b18a822c417934d3c3889"
+        }
+      ]
+    },
+    {
+      "ctin": "09AAACH8755L1Z0",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 323104.81,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 273817.64,
+                "iamt": 49287.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000182",
+          "chksum": "9bb2bb2b027f030138c2473e5983ae02b1c9f4be97aca9e34980bc1852cdf8d2"
+        }
+      ]
+    },
+    {
+      "ctin": "09AABCB5730G1ZV",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 270224.09,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 229003.44,
+                "iamt": 41220.65
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000207",
+          "chksum": "6400a8017dc8079607768eb42c35c191b6211413d34e0306f132fe86fd7aa72b"
+        }
+      ]
+    },
+    {
+      "ctin": "09AADCA1701E1ZB",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 1095359.96,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 928270.91,
+                "iamt": 167089.05
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000109",
+          "chksum": "edefd509eef3e2dec122f06158274edc635de8dbfd8fbede601042f993511c3d"
+        },
+        {
+          "val": 1107351.99,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 938433.93,
+                "iamt": 168918.06
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900087",
+          "chksum": "3902e938afe3c61abe90a2b9776ef89032a17a0c0a966ea1dc703b1fcf8d3ab1"
+        },
+        {
+          "val": 1109448.91,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 940210.98,
+                "iamt": 169237.93
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900076",
+          "chksum": "e6a1049d670f8d8c3c18325bd7726cc4355437d71b4f5e6a65610befbb6298f9"
+        },
+        {
+          "val": 1103276.86,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 934980.42,
+                "iamt": 168296.44
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900054",
+          "chksum": "27cebac0617541a682edf118471cdcdab34d458315f23582db042acbb97bf2fe"
+        },
+        {
+          "val": 1100942.54,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 933002.19,
+                "iamt": 167940.35
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000098",
+          "chksum": "e294d348e2482d7b4023c3a4f044f0124407c47cac9af7ef7c41a1f15a978767"
+        },
+        {
+          "val": 1105087.34,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 936514.72,
+                "iamt": 168572.62
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900065",
+          "chksum": "b00a98ee58cf87b52686bfb102a1c15afc41aed104ff074d42a7c9d545fb5222"
+        },
+        {
+          "val": 1138208.55,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 964583.23,
+                "iamt": 173625.32
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000127",
+          "chksum": "6464a333850aecba7ab946856710279bf107d2dec43262c4ef4188882a155b61"
+        },
+        {
+          "val": 1128473.88,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 956333.49,
+                "iamt": 172140.39
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000150",
+          "chksum": "4abad91ef826625232acd17ea1450f33583c4ed15448a40b2e06253158d26462"
+        }
+      ]
+    },
+    {
+      "ctin": "09AALCS3949Q1ZA",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23282.53,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19730.96,
+                "iamt": 3551.57
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "09",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000140",
+          "chksum": "ea380a6a9bdf06e143ec4a6ed6812a257d13ef252f61fd465ad37066545bc39c"
+        }
+      ]
+    },
+    {
+      "ctin": "10AABCU9355J1Z9",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 260791.38,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 221009.58,
+                "iamt": 39781.8
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "10",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "18052000066",
+          "chksum": "c424ac36880d8171ee585ac7a531d6353ac896e68a92e0ca5bba69ab905985da"
+        }
+      ]
+    },
+    {
+      "ctin": "13AAACH8755L1ZB",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 12809.55,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 10855.55,
+                "iamt": 1954
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "13",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000176",
+          "chksum": "9ecbcc8a2aeb130ccca9a7bf0f131621b2ea489d7b907d75bb70986252649cf6"
+        }
+      ]
+    },
+    {
+      "ctin": "14AAACH8755L1Z9",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 11587.52,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 9819.93,
+                "iamt": 1767.59
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "14",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000174",
+          "chksum": "f33803cd42059f6b261b825299ed6b4027fbc68e3af3beef08c4bef72b4e55ef"
+        }
+      ]
+    },
+    {
+      "ctin": "16AAACH8755L1Z5",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 13938.84,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 11812.58,
+                "iamt": 2126.26
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "16",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000180",
+          "chksum": "f89ee2fc1f986a910cb3ba918219e7cc5406abdf69fe5639af5f485825cf8cc0"
+        }
+      ]
+    },
+    {
+      "ctin": "16AABCB5730G1Z0",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 18619.92,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15779.59,
+                "iamt": 2840.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "16",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000206",
+          "chksum": "dc72fbcd099d21b9425211c524f7c4b7abbc02834aa18d202cb1e7a503629180"
+        }
+      ]
+    },
+    {
+      "ctin": "17AAACH8755L1Z3",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 14351.22,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 12162.05,
+                "iamt": 2189.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "17",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000175",
+          "chksum": "e0577a9a6b8bc88e0aa30b0e3f07e090ce471a9e0516e0c6db682c8fa4b1c267"
+        }
+      ]
+    },
+    {
+      "ctin": "17AABCB5730G1ZY",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 15466.13,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 13106.89,
+                "iamt": 2359.24
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "17",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000202",
+          "chksum": "43f5628989f6c2f79cb513a577c68a1a6e4f5a2aef819b0ced6aff35f78d1e2d"
+        }
+      ]
+    },
+    {
+      "ctin": "18AAACH8755L1Z1",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 200700.05,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 170084.79,
+                "iamt": 30615.26
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "18",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000170",
+          "chksum": "412c97b7dbd069e11b2acbbe9607cb85b8848b7361a7696a56b96fbab8bd038d"
+        }
+      ]
+    },
+    {
+      "ctin": "18AABCB5730G1ZW",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 175223.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 148494.39,
+                "iamt": 26728.98
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "18",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000196",
+          "chksum": "80c5936cdb03d2e3909e406016a44a155249a26bf056c6a9c02bf4354ab2c338"
+        },
+        {
+          "val": 10909.39,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 9245.25,
+                "iamt": 1664.14
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "18",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "560520C00076",
+          "chksum": "3a2ff41e9c5cd7c17ec1d6690068ddea5eccd2c937d7f55cb593823dae925c19"
+        }
+      ]
+    },
+    {
+      "ctin": "20AABCU9355J1Z8",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 148976.47,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "samt": 11362.61,
+                "rt": 18,
+                "txval": 126251.25,
+                "camt": 11362.61
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "20",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "18052000069",
+          "chksum": "84cd47b4b83e5c2ead32ee6edfe99c4881fa81e5fc5f1046ab3f83af82e827d0"
+        }
+      ]
+    },
+    {
+      "ctin": "20AALCS3949Q1ZQ",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 1413.64,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "samt": 107.82,
+                "rt": 18,
+                "txval": 1198,
+                "camt": 107.82
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "20",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00079",
+          "chksum": "5407bb76b3fd36d57dcd754704bef2129ba8cacf893842e1812591e7b5556e7d"
+        },
+        {
+          "val": 23282.54,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "samt": 1775.79,
+                "rt": 18,
+                "txval": 19730.96,
+                "camt": 1775.79
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "20",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000133",
+          "chksum": "402e668859acc396115021f5c01fa538dcd846feeca79b0ee6d172ba6e3ca6ca"
+        }
+      ]
+    },
+    {
+      "ctin": "21AAACH8755L1ZE",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 119734.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 101469.55,
+                "iamt": 18264.52
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000177",
+          "chksum": "5d98a80052fb372edb78a959d65755a43df4c3717d96aba7635f9dffdc0d2837"
+        }
+      ]
+    },
+    {
+      "ctin": "21AABCB5730G1Z9",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 172860.31,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 146491.78,
+                "iamt": 26368.53
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000203",
+          "chksum": "a907e108fb8ec50236c1cd22c3cf2561ba7f94141eee76e80f5509aeb9c9ba22"
+        }
+      ]
+    },
+    {
+      "ctin": "21AADCA1701E1ZP",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 558729.34,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 473499.47,
+                "iamt": 85229.87
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900051",
+          "chksum": "763ff2c163b9f6921c111b27f2ff79d15c3a9b002a4ff7f831b070f61d39648b"
+        },
+        {
+          "val": 556230.55,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 471381.85,
+                "iamt": 84848.7
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000095",
+          "chksum": "038f47798721ba1b0939e0a310b6bdbe53180a9c60c72e6ba0142f20fb57e547"
+        },
+        {
+          "val": 558729.34,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 473499.47,
+                "iamt": 85229.87
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900062",
+          "chksum": "85cbc506b53e2bb8329c4c827fe838574980bd92d85d9f67b25738c492ec00a4"
+        },
+        {
+          "val": 558729.34,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 473499.47,
+                "iamt": 85229.87
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900073",
+          "chksum": "c085775216361c02a52421671d646e530c8365fde2a70ed90b9fc5685e1e0e64"
+        },
+        {
+          "val": 558729.34,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 473499.47,
+                "iamt": 85229.87
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900084",
+          "chksum": "a1c71401abc41b673b672aec2bc66af6a47442e2fa03eceae7e9099b9f4a7f20"
+        },
+        {
+          "val": 584692.24,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 495502.04,
+                "iamt": 89190.2
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000147",
+          "chksum": "c50381f3dd1705ebbee9302c90b74740fcbdc0c270da0a7bcd989d06d36cbe9d"
+        },
+        {
+          "val": 593580.87,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 503034.59,
+                "iamt": 90546.28
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000124",
+          "chksum": "39b22be9a87212da6857244b77c55ad459cd116d984653e4e373790d43e615c8"
+        },
+        {
+          "val": 593580.87,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 503034.59,
+                "iamt": 90546.28
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000106",
+          "chksum": "cc09b544885c1469c9030270ba9e5a5b5ec9ce680a2012ce6cbb8ea7cb1b3bc0"
+        }
+      ]
+    },
+    {
+      "ctin": "21AALCS3949Q1ZO",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23290.39,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19737.62,
+                "iamt": 3552.77
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "21",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000136",
+          "chksum": "3ef91f4f6a6686a64bc8be349e5548c510f3ca0d47578cfc7260f7b57b33dd5a"
+        }
+      ]
+    },
+    {
+      "ctin": "22AABCU9355J1Z4",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 53628.91,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 45448.23,
+                "iamt": 8180.68
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "22",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "18052000067",
+          "chksum": "b40ca11068ed49dd9b45dee365391c155dd91da04d76fd45a343f4ce74ca927e"
+        }
+      ]
+    },
+    {
+      "ctin": "23AAACH8755L1ZA",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 282175.81,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 239132.04,
+                "iamt": 43043.77
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000172",
+          "chksum": "e4056623a6673d49fdd67ee1a3fd5b032b2a49291049c1a31e28b8a8366b8039"
+        },
+        {
+          "val": 15538.68,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 13168.37,
+                "iamt": 2370.31
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "19052000173",
+          "chksum": "883a717710bd684b434fd1f6edd2326a608247faa0044b75a52c35ccacb76495"
+        }
+      ]
+    },
+    {
+      "ctin": "23AABCB5730G1Z5",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 151231.52,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 128162.29,
+                "iamt": 23069.23
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000201",
+          "chksum": "033f092bf8cd4b45d2f55af07038fd06db17c3f419684b0cc88c30659e2baf1f"
+        }
+      ]
+    },
+    {
+      "ctin": "23AABCU9355J1Z2",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 94806.1,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 80344.16,
+                "iamt": 14461.94
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "18052000070",
+          "chksum": "8a6fd99c73b7f137e463b8b3af9a1196cd360aa39f76cbf06ee5242ee1efd377"
+        }
+      ]
+    },
+    {
+      "ctin": "23AADCA1701E1ZL",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 415676.46,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 352268.13,
+                "iamt": 63408.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900060",
+          "chksum": "63eeaae9b0edfa6dd8ced7a86bca27fb4df3c0212f3fab1bce99493a630a423e"
+        },
+        {
+          "val": 415676.46,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 352268.13,
+                "iamt": 63408.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900071",
+          "chksum": "681fb2ab5e5581327894e5dfe2f90f49b57bd925a3c9ed4d826aec2201dd44fe"
+        },
+        {
+          "val": 414648.69,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 351397.14,
+                "iamt": 63251.55
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000093",
+          "chksum": "53a73c0bfdf13fa566469fe08c22078fdde8e7205e343fe5d0aefb4404a76618"
+        },
+        {
+          "val": 415676.46,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 352268.13,
+                "iamt": 63408.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900082",
+          "chksum": "7a0dd358d6e9a92294013dcb0f8857073729bbcad2bba942f99365710dbe4071"
+        },
+        {
+          "val": 421903.59,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 357545.28,
+                "iamt": 64358.31
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000145",
+          "chksum": "3a6f0f5ae7c541f3613f585f1798bca60669e23c583213927d5cedc7fbe8a474"
+        },
+        {
+          "val": 428320.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 362983.22,
+                "iamt": 65336.85
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000122",
+          "chksum": "31359eec6f8b73df8e5c2c64b78762424c86bbb3a1d22543a6b2f46b03b334b6"
+        },
+        {
+          "val": 415676.46,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 352268.13,
+                "iamt": 63408.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900049",
+          "chksum": "69dff103ec4f4cb12634b6a8ddb0548670a6e97a35f8c510a20b3475cf9e7247"
+        },
+        {
+          "val": 428320.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 362983.22,
+                "iamt": 65336.85
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "23",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000104",
+          "chksum": "889f653e5e089cb8e272654379dc43a73fe3109eedacb3db96ab2b8738569dea"
+        }
+      ]
+    },
+    {
+      "ctin": "24AALCS3949Q1ZI",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23284.89,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19732.96,
+                "iamt": 3551.93
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "24",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000132",
+          "chksum": "90d71ae3a9f9f2486434e670bd0b9105dae4144a2f379ead1a0455c7f2ffc0df"
+        }
+      ]
+    },
+    {
+      "ctin": "27AABCB5730G1ZX",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 1176735.84,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 997233.65,
+                "iamt": 179502.19
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000208",
+          "chksum": "4925bdca5fcd612f656481dcdeffa55c81321a09854ed7a6be05d4c320488470"
+        },
+        {
+          "val": 1479623.68,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1253918.2,
+                "iamt": 225705.48
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000209",
+          "chksum": "f15ef2fe0e838b247101acb3e5726e51459233466287f34c35e3443d9142e7dc"
+        },
+        {
+          "val": 2471.81,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 2094.75,
+                "iamt": 377.06
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "560520C00077",
+          "chksum": "e8819f38e951820e72cb4eae44cba6cab1fb836e4d0a525426476bb11aeac00c"
+        },
+        {
+          "val": 225471.98,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 191077.95,
+                "iamt": 34394.03
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "560520C00075",
+          "chksum": "f6aafbd1b26c154c95465438e9b6bb620fb2ffb773f91b85dcab51eff7169fc1"
+        }
+      ]
+    },
+    {
+      "ctin": "27AADCA1701E1ZD",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 17922.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15188.45,
+                "iamt": 2733.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900072",
+          "chksum": "e08bc9aaabe18d5e70fec6581ad4557d12671fc71bf1484881eb90fcadadebb0"
+        },
+        {
+          "val": 17922.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15188.45,
+                "iamt": 2733.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900050",
+          "chksum": "0143b301aa4c7ff37c263e5c004821daed6bea72f4a1e7a07c00d341c4900c84"
+        },
+        {
+          "val": 17922.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15188.45,
+                "iamt": 2733.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000094",
+          "chksum": "392ba664f75e7247c8f6df3b516eb95c8ce76edf90b087de1c290d77dd80f3cd"
+        },
+        {
+          "val": 17922.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15188.45,
+                "iamt": 2733.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900061",
+          "chksum": "426e7716bfe98828f2f106dea49ee7b502dbb8b41794538a309a1b5934e90778"
+        },
+        {
+          "val": 17922.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15188.45,
+                "iamt": 2733.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900083",
+          "chksum": "ae9afe1a8e5db941ac280e6c707f59ea25956b5f41ded93de481249497e6707b"
+        },
+        {
+          "val": 18273.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15485.65,
+                "iamt": 2787.42
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000146",
+          "chksum": "e22224971b5f35f03e3ef4ece0ce63830b5975f6f41f5affe0c801ecd853cece"
+        },
+        {
+          "val": 18540.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15711.92,
+                "iamt": 2828.15
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000123",
+          "chksum": "cd1dab1d16bff3a3df20ca3434c4e108dc47a2170458edce14df2244fac9b8f6"
+        },
+        {
+          "val": 18540.07,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 15711.92,
+                "iamt": 2828.15
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000105",
+          "chksum": "099a4efd6c764f2465ab615ca09298926a37041cbbada3ae984225b825efff3f"
+        }
+      ]
+    },
+    {
+      "ctin": "27AALCS3949Q1ZC",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 283892.91,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 240587.24,
+                "iamt": 43305.67
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000135",
+          "chksum": "46c8bdb6b98693c41ab7db2d26e337cb161d2f7adb3fa77447d39974c4454206"
+        },
+        {
+          "val": 15860.38,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 13441,
+                "iamt": 2419.38
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "27",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00081",
+          "chksum": "e2024b91b3e2e1bada7b4be4a7984f008f74c402b23545072a88aad4935e48bf"
+        }
+      ]
+    },
+    {
+      "ctin": "29AABCB5730G1ZT",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 792457.21,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 671573.89,
+                "iamt": 120883.32
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000199",
+          "chksum": "42b7881287d797a3759c9706c5d485d79db30c59714334998e28486ce1c3f8df"
+        },
+        {
+          "val": 9047.79,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 7667.62,
+                "iamt": 1380.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "560520C00078",
+          "chksum": "dbf0df9f22826c99acaac1e74baabc79ade7183414b3ed713b7e04fa554ff39c"
+        }
+      ]
+    },
+    {
+      "ctin": "29AADCA1701E1Z9",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 453362.45,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 384205.45,
+                "iamt": 69157
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000091",
+          "chksum": "b229a9fafb717bae5a3e006f69fcfca5993b9ed26ec8ff7c8ca7b966d86c8f23"
+        },
+        {
+          "val": 446567,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 378446.64,
+                "iamt": 68120.36
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000143",
+          "chksum": "236d7a442d3a4066545c6e37eb97c01f8df85fb3f012d170d89814816451ecd2"
+        },
+        {
+          "val": 453362.45,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 384205.45,
+                "iamt": 69157
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000121",
+          "chksum": "e687d2f3a86d1566f40db5817d2bb837a5b28a10e16974459bf11a8ba8f9bd75"
+        },
+        {
+          "val": 453362.45,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 384205.45,
+                "iamt": 69157
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900069",
+          "chksum": "02ed0a6b8976a1621b560b630200bbe77d60d7e95a8e2c9ca6862f9a13f8bdab"
+        },
+        {
+          "val": 453362.45,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 384205.45,
+                "iamt": 69157
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000102",
+          "chksum": "f2176a57c9921f2c4d4577f9b701a4ec3b019e8a091d5b7e42d50ff66087bd57"
+        },
+        {
+          "val": 452569.86,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 383533.76,
+                "iamt": 69036.1
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900080",
+          "chksum": "7811abc3af6a77c5c1b1eeda45db708a2cb42b58b2c07dfdaffcd5701483344e"
+        },
+        {
+          "val": 451713.86,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 382808.34,
+                "iamt": 68905.52
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900058",
+          "chksum": "20d907e616b923e942c9b8cd8a4bcf394c997c6d1d637d76432c4110f839f57d"
+        }
+      ]
+    },
+    {
+      "ctin": "29AALCS3949Q1Z8",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23286.46,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19734.29,
+                "iamt": 3552.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000134",
+          "chksum": "08dba28e00848a2d7e7ae4cbef19023e940807e8901f9544cfcc878af4f5a13c"
+        },
+        {
+          "val": 1457.3,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1235,
+                "iamt": 222.3
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "29",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00080",
+          "chksum": "55c0ee9b9f67a53e042f25c6eb402677a5b3a3ff29be52c45d000d41e5265632"
+        }
+      ]
+    },
+    {
+      "ctin": "30AABCB5730G1ZA",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 202363.7,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 171494.67,
+                "iamt": 30869.03
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000197",
+          "chksum": "80226642591e5dd423d7285e6151a36c25fa73889ece392041d8bae9dd2baa30"
+        }
+      ]
+    },
+    {
+      "ctin": "30AADCA1701E1ZQ",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 64102.69,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 54324.33,
+                "iamt": 9778.36
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000090",
+          "chksum": "844ce6824715eba209d566958ceb00156353bc3e4b14396c84ba8cf9e9162145"
+        },
+        {
+          "val": 64809.24,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 54923.08,
+                "iamt": 9886.16
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000142",
+          "chksum": "569275857625528387f1315c0124b5217356de42d1b91f6a5a2f9d9073bba27a"
+        },
+        {
+          "val": 65801.04,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 55763.6,
+                "iamt": 10037.44
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000120",
+          "chksum": "2e4121af652200191ca340222f2d03683117fe2a2ed01d2f6eb4801c6b1e21cc"
+        },
+        {
+          "val": 65801.04,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 55763.6,
+                "iamt": 10037.44
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000101",
+          "chksum": "65c7897813f4026a2dd4bd21c9bed32e8f5a900d16353e01ecf0107e17fa19f4"
+        },
+        {
+          "val": 64102.69,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 54324.33,
+                "iamt": 9778.36
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900046",
+          "chksum": "dcc2391b2c793f6cf3f4282ed0d92a72496ef4243746538ab5cdb3e1e4008209"
+        },
+        {
+          "val": 64102.69,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 54324.33,
+                "iamt": 9778.36
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900057",
+          "chksum": "93b33329ba730e695c212ab734e33e2b374f03902d3130d884d32ec6968f2bb8"
+        },
+        {
+          "val": 62915.6,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 53318.32,
+                "iamt": 9597.28
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900068",
+          "chksum": "a1efd59cd515f3cbfdcac1176205c2f488b17f87c20a093bc34c1300efbe1646"
+        },
+        {
+          "val": 64102.69,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 54324.33,
+                "iamt": 9778.36
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "30",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900079",
+          "chksum": "1275ce06bc920b107a73e6ebc68244a53303d85686f62bbdb44f238cc5f40610"
+        }
+      ]
+    },
+    {
+      "ctin": "32AABCB5730G1Z6",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 401471.19,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 340229.82,
+                "iamt": 61241.37
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000200",
+          "chksum": "0967d2af295e0261d513a412201784d0dd21634cadb74c565e42add436a56b5b"
+        }
+      ]
+    },
+    {
+      "ctin": "32AADCA1701E1ZM",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 1243834.86,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1054097.29,
+                "iamt": 189737.57
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900070",
+          "chksum": "9aeae97ed9f19693a38861ad6984feea13bd9d486f81fc66c81658ef5f5694b2"
+        },
+        {
+          "val": 1246155.48,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1056063.89,
+                "iamt": 190091.59
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000092",
+          "chksum": "2cc88c3058d82fdbe20a7ebfa55e08177fbef0406ba6847707ccc0b28d2462cb"
+        },
+        {
+          "val": 1277094.03,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1082283,
+                "iamt": 194811.03
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-09-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55081900037",
+          "chksum": "9669cef677647399e5ccf0af7fc58a19c73fec70eb19233ba7399490621a8b1a"
+        },
+        {
+          "val": 1245934.8,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1055876.88,
+                "iamt": 190057.92
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900081",
+          "chksum": "38ef6838c691d342955b625c6963e4a7fdac00593c2230cfb0995d6684cee31e"
+        },
+        {
+          "val": 1296087.59,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1098379.26,
+                "iamt": 197708.33
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000144",
+          "chksum": "ad309b82817369240bcef60b373e5f13e33ecf0a14422b58cabf2ed77b5eec53"
+        },
+        {
+          "val": 1259554.29,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1067418.82,
+                "iamt": 192135.47
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-10-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55091900048",
+          "chksum": "16c22bab7f5919920fc02ec4ca91fa5725dbd96c6833c28d6b75efea5b56508f"
+        },
+        {
+          "val": 1302715.49,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1103996.08,
+                "iamt": 198719.41
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000129",
+          "chksum": "fdcd36d1d3f0618db13924770781dc4eb8d0ce5c86590d5d6aa683b6adde415b"
+        },
+        {
+          "val": 1323327.62,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1121463.98,
+                "iamt": 201863.64
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000103",
+          "chksum": "1b816215d7cfacfeb336c0efd36f2f387c49e89486a6ce1ae399a2f0fc6867e1"
+        },
+        {
+          "val": 1239838.26,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1050710.32,
+                "iamt": 189127.94
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "32",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900059",
+          "chksum": "f84f8ce82fcf817e4f368fa8cc964f8498e82dcc17878dec48f0965370cdef88"
+        }
+      ]
+    },
+    {
+      "ctin": "33AABCB5730G1Z4",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 672423.93,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 569850.76,
+                "iamt": 102573.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000205",
+          "chksum": "5451f3b3d88ec2dbd41f1ac39f8d12933ab48d32635ee40ea91c74732d3dbcb6"
+        }
+      ]
+    },
+    {
+      "ctin": "33AADCA1701E1ZK",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 305737.75,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 259099.77,
+                "iamt": 46637.98
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900085",
+          "chksum": "d750e9f1e13d7c04ce8d0364b193267258ff38ca471d4a2223c321edbdf40c5e"
+        },
+        {
+          "val": 306453.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 259706.23,
+                "iamt": 46747.14
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000107",
+          "chksum": "d2a90821c3dddb78e0a2bb997e9d02434ff8ad08d39614a5a60c6e4ceecdb5a8"
+        },
+        {
+          "val": 309693.02,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 262451.7,
+                "iamt": 47241.32
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900063",
+          "chksum": "02e9ae0b90e9a3ec3844077aa5470b3cec60a03e0859873be49ce1a3e701ce0d"
+        },
+        {
+          "val": 304811.67,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 258314.95,
+                "iamt": 46496.72
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900074",
+          "chksum": "e1f7b1f1c7adc26d25ca1e71c15dfdeedcf268679b12560939818e7f7d84fcb8"
+        },
+        {
+          "val": 305737.73,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 259099.77,
+                "iamt": 46637.96
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000096",
+          "chksum": "8bf36d49d9a884928394247e84a842028e49aca71d34c5acff40656f0380b0e5"
+        },
+        {
+          "val": 310284.04,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 262952.56,
+                "iamt": 47331.48
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000125",
+          "chksum": "689d1434c1b374412e11e030e70a0f011d38e37e9f219df09fe0bab2278abf98"
+        },
+        {
+          "val": 305655.42,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 259029.96,
+                "iamt": 46625.46
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000148",
+          "chksum": "5d4f384ca27c8d653a011ead38904e6bf0e87f55be067d245a8868adacea62ca"
+        }
+      ]
+    },
+    {
+      "ctin": "33AALCS3949Q1ZJ",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23284.49,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19732.62,
+                "iamt": 3551.87
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "33",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000138",
+          "chksum": "f42c492305180e291ac6c841929d8fb15ea37373f516a77d95526dd0529f1d8a"
+        }
+      ]
+    },
+    {
+      "ctin": "34AABCB5730G1Z2",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 31527.24,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 26718,
+                "iamt": 4809.24
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "34",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "56052000204",
+          "chksum": "c980dda51e9b0bde85d6849406977c6b30a3b38b262364bd6716e54918011c43"
+        }
+      ]
+    },
+    {
+      "ctin": "36AADCA1701E1ZE",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 210395.29,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 178301.12,
+                "iamt": 32094.17
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900086",
+          "chksum": "7fb4bdbd11fbe6dfff645f31dd25984b25d510560d6272a62e895a7e835a58cf"
+        },
+        {
+          "val": 222790.73,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 188805.75,
+                "iamt": 33984.98
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000108",
+          "chksum": "2496f213934c0638582a1930b2c877877daf83c5cb3e6e25c7b558d4b2bfbfa0"
+        },
+        {
+          "val": 187282.12,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 158713.69,
+                "iamt": 28568.43
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900064",
+          "chksum": "242acfea27b970f7aa33329623327d06751e0a33eb1259918e66cb43ed8dd126"
+        },
+        {
+          "val": 196764.18,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 166749.33,
+                "iamt": 30014.85
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900075",
+          "chksum": "b619b5a0c561bdea5c3fc626f6dc49b1c8359c1d4f0303864c24b75f9636244a"
+        },
+        {
+          "val": 206151.01,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 174704.27,
+                "iamt": 31446.74
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000097",
+          "chksum": "81bf2c1921dd1e0dfc139c940efd531314dbfe187f42cfcb5edd8645733a35d5"
+        },
+        {
+          "val": 223584.62,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 189478.52,
+                "iamt": 34106.1
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000149",
+          "chksum": "4eb1c68352066e2978cd6cc16f91f27dfe7be2fe099a566d37b08e67ccb066ec"
+        },
+        {
+          "val": 225697.22,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 191268.88,
+                "iamt": 34428.34
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000126",
+          "chksum": "95bf3ba4e7a0ffab15e7a224e917b57d685b8282383316ba264cc66b9e077274"
+        }
+      ]
+    },
+    {
+      "ctin": "36AALCS3949Q1ZD",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 23283.03,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19731.38,
+                "iamt": 3551.65
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000139",
+          "chksum": "14bd0423d5ba7658cf6a902e41069941c6ddd86f166d8a772fedb13a252d2de7"
+        },
+        {
+          "val": 1438.42,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1219,
+                "iamt": 219.42
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "36",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00083",
+          "chksum": "ca374885df293ae3c8e6d4f913953ba9ed92861f52b152e421ed4993b19c3658"
+        }
+      ]
+    },
+    {
+      "ctin": "37AADCA1701E1ZC",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 228636.15,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 193759.5,
+                "iamt": 34876.65
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55052000141",
+          "chksum": "6cfd951bc0223cc5bd797b88a4280212417ec229ebfce03cb581d8093de67864"
+        },
+        {
+          "val": 232119.14,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 196711.19,
+                "iamt": 35407.95
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "25-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55032000119",
+          "chksum": "674be65d3d1f6df784f776953068f79104078b66a27f7c677b456e51746e69e9"
+        },
+        {
+          "val": 237017.7,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 200862.49,
+                "iamt": 36155.21
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-11-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55101900056",
+          "chksum": "82d5d1485152c2d99fd78e1470467e6343d1b38b22c3dd259bd80ab3c5e9b490"
+        },
+        {
+          "val": 240122.55,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 203493.71,
+                "iamt": 36628.84
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-12-2019",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55111900067",
+          "chksum": "3ba83900937041abf1b3e6d727093abdcfe845c195c754843298f8e0ff270208"
+        },
+        {
+          "val": 223262.43,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 189205.47,
+                "iamt": 34056.96
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-02-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55012000089",
+          "chksum": "85072bced8da342ea4a4ada0c59e49a1cc282a42c51ebc5368c02a77c23d8399"
+        },
+        {
+          "val": 229826.62,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 194768.37,
+                "iamt": 35058.25
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-03-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55022000100",
+          "chksum": "1a5308421f58000c97d0392bd2bbe5108a131af1bd78ba44608db9bce68936d4"
+        },
+        {
+          "val": 235440.37,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 199525.77,
+                "iamt": 35914.6
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "01-01-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "55121900078",
+          "chksum": "b60086db6875c2aaf822d77c3532af7637857df8c618b3de3f4d38de087c43fa"
+        }
+      ]
+    },
+    {
+      "ctin": "37AALCS3949Q1ZB",
+      "cfs": "N",
+      "inv": [
+        {
+          "val": 1357,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 1150,
+                "iamt": 207
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "030520M00078",
+          "chksum": "0733cd70d586e57b2e20e969220949e35d8390195fb076d51e2f53906388e134"
+        },
+        {
+          "val": 23289.41,
+          "itms": [
+            {
+              "num": 1,
+              "itm_det": {
+                "rt": 18,
+                "txval": 19736.79,
+                "iamt": 3552.62
+              }
+            }
+          ],
+          "inv_typ": "R",
+          "flag": "U",
+          "updby": "S",
+          "pos": "37",
+          "idt": "05-06-2020",
+          "rchrg": "N",
+          "cflag": "N",
+          "inum": "03052000131",
+          "chksum": "58b1a915dd6ac835ad0cb17bec18a6c9cc8f6bb62e29f3e53f803c8572c9ab6b"
+        }
+      ]
+    }
+  ],
+  "doc_issue": {
+    "flag": "N",
+    "doc_det": [
+      {
+        "docs": [
+          {
+            "cancel": 0,
+            "num": 1,
+            "totnum": 10,
+            "from": "03052000131",
+            "to": "03052000140",
+            "net_issue": 10
+          },
+          {
+            "cancel": 0,
+            "num": 2,
+            "totnum": 6,
+            "from": "030520M00078",
+            "to": "030520M00083",
+            "net_issue": 6
+          },
+          {
+            "cancel": 0,
+            "num": 3,
+            "totnum": 5,
+            "from": "18052000066",
+            "to": "18052000070",
+            "net_issue": 5
+          },
+          {
+            "cancel": 0,
+            "num": 4,
+            "totnum": 13,
+            "from": "19052000170",
+            "to": "19052000182",
+            "net_issue": 13
+          },
+          {
+            "cancel": 0,
+            "num": 5,
+            "totnum": 11,
+            "from": "55012000089",
+            "to": "55012000099",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 6,
+            "totnum": 11,
+            "from": "55022000100",
+            "to": "55022000110",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 7,
+            "totnum": 11,
+            "from": "55032000119",
+            "to": "55032000129",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 8,
+            "totnum": 11,
+            "from": "55052000141",
+            "to": "55052000151",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 9,
+            "totnum": 1,
+            "from": "55081900037",
+            "to": "55081900037",
+            "net_issue": 1
+          },
+          {
+            "cancel": 0,
+            "num": 10,
+            "totnum": 1,
+            "from": "55091900046",
+            "to": "55091900046",
+            "net_issue": 1
+          },
+          {
+            "cancel": 0,
+            "num": 11,
+            "totnum": 4,
+            "from": "55091900048",
+            "to": "55091900051",
+            "net_issue": 4
+          },
+          {
+            "cancel": 0,
+            "num": 12,
+            "totnum": 2,
+            "from": "55091900054",
+            "to": "55091900055",
+            "net_issue": 2
+          },
+          {
+            "cancel": 0,
+            "num": 13,
+            "totnum": 11,
+            "from": "55101900056",
+            "to": "55101900066",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 14,
+            "totnum": 11,
+            "from": "55111900067",
+            "to": "55111900077",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 15,
+            "totnum": 11,
+            "from": "55121900078",
+            "to": "55121900088",
+            "net_issue": 11
+          },
+          {
+            "cancel": 0,
+            "num": 16,
+            "totnum": 14,
+            "from": "56052000196",
+            "to": "56052000209",
+            "net_issue": 14
+          },
+          {
+            "cancel": 0,
+            "num": 17,
+            "totnum": 4,
+            "from": "560520C00075",
+            "to": "560520C00078",
+            "net_issue": 4
+          }
+        ],
+        "doc_num": 1
+      }
+    ],
+    "chksum": "85e653312a728c3a6f6d7d3f5e9538c2b06cbd81946c7eb8c97301959337a1d3"
+  },
+  "fil_dt": "21-07-2020"
+}

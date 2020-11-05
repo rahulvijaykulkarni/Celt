@@ -1,0 +1,335 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+
+    <script src="js/bootstrap.min.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="cph_title" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="cph_header" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .menu {
+            font: 13px helvetica;
+            font-weight: bold;
+            background: #616161;
+            text-emphasis-color:#fff;
+            /*#424D7A*/
+        }
+        
+
+        .circle {
+            width: 40px;
+            height: 40px;
+            border-radius: 50px;
+            background-color: #45619D;
+            margin-top: 5px;
+            cursor: pointer;
+        }
+
+        .img_circle {
+            width: 40px;
+            height: 40px;
+            border-radius: 50px;
+            cursor: pointer;
+        }
+
+        #notification_li {
+            position: relative;
+        }
+
+        #notificationContainer {
+            background-color: #fff;
+            border: 1px solid rgba(100, 100, 100, .4);
+            -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+            overflow: visible;
+            position: absolute;
+            top: 30px;
+            z-index: 1100;
+            margin-left: -170px;
+            width: 400px;
+            display: none;
+            // Enable this after jquery implementation;
+        }
+
+        // Popup Arrow #notificationContainer:before {
+            content: '';
+            display: block;
+            position: absolute;
+            width: 0;
+            height: 0;
+            z-index: 1100;
+            border: 10px solid black;
+            margin-top: -20px;
+            margin-left: 188px;
+        }
+
+        #notificationTitle {
+            font-weight: bold;
+            padding: 8px;
+            font-size: 13px;
+            background-color: #ffffff;
+            position: fixed;
+            z-index: 1000;
+            width: 384px;
+            border-bottom: 1px solid #dddddd;
+        }
+
+        #notificationsBody {
+            padding: 33px 0px 0px 0px !important;
+            min-height: 300px;
+        }
+
+        #notificationFooter {
+            background-color: #e9eaed;
+            text-align: center;
+            font-weight: bold;
+            padding: 8px;
+            font-size: 12px;
+            border-top: 1px solid #dddddd;
+        }
+        /*notification count*/
+        #notification_count {
+            padding: 3px 7px 3px 7px;
+            background: #cc0000;
+            color: #ffffff;
+            font-weight: bold;
+            border-radius: 9px;
+            -moz-border-radius: 9px;
+            -webkit-border-radius: 9px;
+            position: absolute;
+            margin-top: -4px;
+            font-size: 11px;
+        }
+
+        body {
+            font-family: Verdana;
+            font-size: 10px;
+        }
+
+        .row {
+            margin-right: -15px;
+            margin-left: -15px;
+        }
+        /*rahul add this code*/
+        .nav-css 
+        {
+            background-color: #616161;
+        }
+    </style>
+    <script>
+
+        $(document).ready(function () {
+            $("#notificationLink").click(function () {
+                $("#notificationContainer").fadeToggle(300);
+                $("#notification_count").fadeOut("slow");
+                return false;
+            });
+
+            //Document Click hiding the popup 
+            $(document).click(function () {
+                $("#notificationContainer").hide();
+            });
+
+            //Popup on click
+            $("#notificationContainer").click(function () {
+                return false;
+            });
+
+
+            $("#notificationLink2").click(function () {
+                $("#notificationContainer2").fadeToggle(300);
+                $("#notification_count2").fadeOut("slow");
+                return false;
+            });
+
+            //Document Click hiding the popup 
+            $(document).click(function () {
+                $("#notificationContainer2").hide();
+            });
+
+            //Popup on click
+            $("#notificationContainer2").click(function () {
+                return false;
+            });
+
+        });
+
+    </script>
+</head>
+<body>
+    <script type="text/javascript">
+
+        function callmasterfnc() {
+            document.getElementById('<%= btn_master_logout.ClientID %>').click();
+        }
+    </script>
+    <br />
+    <br />
+    <form id="frm_main" runat="server">
+
+        <header>
+
+
+            <%--<div id="header" style="width:100%; background-color:#fff;">
+            
+            <div align="center">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                    <asp:Label ID="lblcurrentperiod" runat="server" Font-Bold="True" ForeColor="Black"
+                     Font-Size="Medium"></asp:Label><br />
+            </div>
+            
+            <div id="userstatus" style="font-size:15px;">
+               Welcome,
+             <asp:Label ID="lblUsername" runat="server"></asp:Label>
+                [
+                <asp:LinkButton ID="lbLogout" runat="server" OnClick="lbLogout_Click"
+                    CausesValidation="False">Logout</asp:LinkButton>
+                ]
+                 &nbsp;&nbsp;
+                 <asp:LinkButton ID="lnkbtn_calc" runat="server" CausesValidation="False"
+                     OnClick="lnkbtn_calc_Click"><img alt="Add Item"  
+                    src="Images/calculator-icon.png" height="20"  /></asp:LinkButton>
+                <br /><br />
+                <asp:Label ID="lblDate" runat="server" Text="" Style="font-size:15px;"></asp:Label>
+            </div>
+
+            <div id="currentstatus">
+               
+                <img src="Images/logo.jpg" class="text-center" style="width:%;  height:100px;"/>
+            </div>
+             
+        </div>--%>
+
+           <%-- <nav class="navbar navbar-default navbar-fixed-top" 
+                style="background-color: #cccccc; color: #000000; box-shadow: 0px 5px 5px 0px #aaa;">--%>
+                 <nav class="navbar navbar-default navbar-fixed-top nav-css">
+                <div class="col-sm-1 col-xs-12">
+                    <asp:ImageButton ID="img_home" runat="server" OnClick="img_home_Click"
+                        ImageUrl="~/Images/logo.png" class="img-responsive" Style="height: 40px; margin-top: 5px; width: 100%;" />
+                </div>
+                <div class="col-sm-9 col-xs-12">
+                    <asp:Menu ID="Menu1" DataSourceID="xmlDataSource" runat="server" class="menu"
+                         DynamicHorizontalOffset="2" CssClass="table-responsive"
+                        ForeColor="white" StaticSubMenuIndent="15px" StaticDisplayLevels="1"
+                        Orientation="Horizontal" BorderStyle="None"
+                        OnMenuItemClick="Menu1_MenuItemClick">
+                        <DataBindings>
+                            <asp:MenuItemBinding DataMember="MenuItem"
+                                NavigateUrlField="NavigateUrl" TextField="Menu_name"
+                                ToolTipField="Menu_name" ValueField="Menu_Name" />
+
+                        </DataBindings>
+
+                        <StaticMenuStyle />
+                        <StaticMenuItemStyle HorizontalPadding="20px" VerticalPadding="20px" />
+                        <DynamicMenuStyle BackColor="#616161" BorderStyle="Solid" BorderColor="White" BorderWidth="2px" />
+                        <DynamicSelectedStyle BackColor="white" BorderStyle="Solid" BorderColor="White" BorderWidth="2px" />
+                        <DynamicMenuItemStyle HorizontalPadding="10px" VerticalPadding="10px" BackColor="#616161" BorderStyle="Solid" BorderColor="White" BorderWidth="2px" />
+                        <DynamicHoverStyle BackColor="white" Font-Bold="true" ForeColor="#616161" BorderStyle="None" />
+                        <StaticHoverStyle BackColor="#616161" Font-Bold="true" ForeColor="white" />
+                    </asp:Menu>
+                    <asp:XmlDataSource ID="xmlDataSource" TransformFile="~/TransformXSLT.xsl"
+                        XPath="MenuItems/MenuItem" runat="server" />
+                </div>
+                <div class="col-sm-1 col-xs-12">
+                    <div id="notification_li" runat="server">
+                        <span id="notification_count"><%=this.notification_count%></span>
+                        <a href="#" id="notificationLink">
+                            <div class="circle">
+                                <img id="emp_photo" src="~/Images/placeholder.PNG" class="img_circle" runat="server" />
+                            </div>
+                        </a>
+                        <div id="notificationContainer" class="notify">
+                            <div id="notificationTitle" style="text-align: left">Notifications</div>
+                            <div id="notificationsBody" class="notifications" style="text-align: left">
+
+                                <asp:GridView ID="grd_notification" class="table" runat="server" AllowPaging="True"
+                                    AutoGenerateColumns="False" CellPadding="4"
+                                    ForeColor="#333333" OnRowDataBound="grd_notification_RowDataBound"
+                                    OnSelectedIndexChanged="grd_notification_SelectedIndexChanged" PageSize="10" ShowHeader="False">
+
+                                    <SelectedRowStyle BackColor="#D1DDF1" Font-Bold="True" ForeColor="#333333" />
+                                    <PagerStyle BackColor="#2461BF" ForeColor="White" HorizontalAlign="Center" />
+                                    <RowStyle BackColor="#EFF3FB" />
+                                    <EditRowStyle BackColor="#2461BF" />
+
+                                    <Columns>
+
+                                        <asp:BoundField DataField="notification" SortExpression="notification" />
+                                        <asp:BoundField DataField="page_name" SortExpression="page_name" />
+
+                                    </Columns>
+
+                                </asp:GridView>
+
+                            </div>
+                            <div id="notificationFooter"><a href="Itemmaster.aspx">See All</a></div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-1 col-xs-12 text-right">
+                    <div id="notification_li2" runat="server">
+                        <a href="#" id="notificationLink2">
+                            <div class="circle">
+                                <img id="Img1" class="img_circle" runat="server" />
+
+                            </div>
+                        </a>
+                        <div id="notificationContainer2" class="notify">
+                            <div id="notificationTitle2" style="text-align: center">Welcome To Profile</div>
+                            <div id="notificationsBody2" class="notifications" style="text-align: left">
+                                <div class="row" style="margin-left: 10px;">
+                                    <div class="col-sm-2 col-xs-12">
+                                        <br />
+                                        <div class="circle">
+                                            <img id="Img2" src="~/Images/placeholder.PNG" class="img_circle"
+                                                runat="server" />
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-10 col-xs-12">
+                                        <h3>
+                                            <asp:Label ID="lblUsername" runat="server"></asp:Label></h3>
+                                        <h4>
+                                            <asp:Label ID="lblDate" runat="server" Text=""></asp:Label></h4>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="notificationFooter2">
+
+                                <asp:LinkButton ID="lbLogout" runat="server" CssClass="lnk_btn" OnClientClick="callmasterfnc()">Logout</asp:LinkButton>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </nav>
+            <br />
+            <br />
+            <br />
+            <!-- navbar-fixed-top-->
+            <asp:Button ID="btn_master_logout" OnClick="lbLogout_Click" runat="server" CssClass="hidden" />
+            <div id="rightcolumn" style="width: 100%;">
+                <asp:ContentPlaceHolder ID="cph_righrbody" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <br />
+        </header>
+
+        <footer class="text-center" style="background-color: #cccccc; padding: 10px;">
+            Copyright © 2018 CeltSoft. All rights reserved.
+        </footer>
+
+    </form>
+</body>
+</html>

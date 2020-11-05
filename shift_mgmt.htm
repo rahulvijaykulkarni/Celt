@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title></title>
+		<style>
+			th{
+				background-color:#ccc;
+			}
+			tr, th, td{
+				padding:10px;
+			}
+
+			.accept{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#090;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+
+			.accept:hover{
+				background-color:#0c0;
+			}
+
+			button a{
+				color: 	#fff;
+
+			}
+			.reject{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#f00;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+			.reject:hover{
+				background-color:#900;
+			}
+			.table1 th td{
+				border:1px solid #000;
+			}
+
+		</style>
+
+</head>
+<body>
+    <h3 style = "font-family:Arial;font-size:10pt; text-align:center;">
+		<b>{empname}</b><br /><br />
+</h3>
+	<table  border="1" align="center" cellspacing="0" cellpadding="0" style = "font-family:Arial;font-size:10pt;">
+			<tr>
+				<th>Day</th>
+				<th>Weekday</th>
+				<th>Shift</th>
+			</tr>
+			{tablebody}
+
+	</table>
+	
+		<h4 style="	text-align:center;">Note : This is an automatically generated email <i>Please do not reply to it.</i></h4>
+</body>
+</html>

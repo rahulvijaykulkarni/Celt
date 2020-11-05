@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title></title>
+		<style>
+			th{
+				background-color:#ccc;
+			}
+			tr, th, td{
+				padding:10px;
+			}
+
+			.accept{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#090;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+
+			.accept:hover{
+				background-color:#0c0;
+			}
+
+			button a{
+				color: 	#fff;
+
+			}
+			.reject{
+
+				padding:10px;
+				text-align:center;
+				width:100%;
+				background-color:#f00;
+				color:#fff;
+				font-size: 15px;
+				font-weight: bold;
+
+			}
+			.reject:hover{
+				background-color:#900;
+			}
+			.table1 th td{
+				border:1px solid #000;
+			}
+
+		</style>
+
+</head>
+<body>
+<h2 style = "font-family:Arial;font-size:10pt; text-align:center;">
+		<b>{UserName}</b>
+</h2>
+    <h3 style = "font-family:Arial;font-size:10pt; text-align:center;">
+		<b>{empname}</b>.<br /><br />
+</h3>
+   <!-- {data}-->
+	<table  border="1" align="center" cellspacing="0" cellpadding="0" style = "font-family:Arial;font-size:10pt;">
+			<tr>
+				<th>Date</th>
+				<th>City Type</th>
+				<th>Merchant</th>
+					<th>type</th>
+                 <th>travel_type</th>
+                <th>Description</th>
+                <th>Expense Image</th>
+				<th>Claim Amount</th>
+                <th> Amount</th>
+					
+			</tr>
+			{tablebody}
+       
+	</table>
+	<br>
+    <table  align="center" cellspacing="5" cellpadding="10" style = "font-family:Arial;font-size:10pt;">
+
+
+		<tr>
+			<td align="center" style="background-color:#090;">
+					<button class="accept" ><a href="{accept_url}" ><span>Approve Claim</span></a></button>
+
+			</td>
+			<td align="center" style="background-color:#f00;">
+					<button class="reject" ><a href="{reject_url}" ><span>Reject Claim</span></a></button>
+
+			</td>
+		</tr>
+</table>
+		<h4 style="	text-align:center;">Note : This is an automatically generated email <i>Please do not reply to it.</i></h4>
+</body>
+</html>
